@@ -3,4 +3,4 @@ function getHoursPerPerson(percentOfWork, phaseFee, feeRate) {
   return (percentOfWOrk * phaseFee) / feeRate;
 }
 
-console.log(getHoursPerPerson(1, 7000, 140);
+console.log(getHoursPerPerson(1, 7000, 140));
