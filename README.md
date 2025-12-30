@@ -1,1 +1,11 @@
+## Ideas
 - Create a checklist of sheets typically found in each phase of design
+- Home page with list of active and closed projects
+- Click on project and it has a project status section showing if you're currently in SD, DD, CD, or permit, Pre plat, license agreements etc.
+  - Also can break down this info for each phase if the project has multiple phases
+-  A section for meeting notes
+-  A section for schedule (different than deadlines as this can be shown more like a gantt chart)
+-  A section for deadlines
+-  A way to send/receive task requests to/from other team members
+  - once received it goes into a new area called "my tasks"
+- 
